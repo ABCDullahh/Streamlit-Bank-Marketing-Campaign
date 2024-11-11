@@ -69,9 +69,6 @@ The model has been trained on the Bank Marketing dataset to predict the likeliho
 - [Documentation](https://github.com/ABCDullahh/Purwadhika-Final-Project-Bank-Marketing-Campaign)
 - [Report Issues](mailto:faizal2jz@gmail.com)
 
-## 📅 Last Update
-
-**Date:** `datetime.now().strftime('%Y-%m-%d')`
 
 ## 👥 Contributors
 
