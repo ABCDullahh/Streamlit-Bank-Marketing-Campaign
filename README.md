@@ -1,4 +1,5 @@
 # 🏦 Bank Marketing Campaign Prediction Streamlit Dashboard
+[Streamlit Dashboard](https://bank-marketing-campaign-prediction.streamlit.app/)
 
 This project provides an interactive dashboard built with **Streamlit** to predict customer subscription to term deposits using **machine learning**. Leveraging **LightGBM**, this model aims to identify which bank customers are most likely to subscribe based on demographic, financial, and campaign-related features. The project supports both **single prediction** and **bulk prediction** with visualization tools for better insights and decision-making.
 
