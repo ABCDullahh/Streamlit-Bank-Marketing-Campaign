@@ -5,6 +5,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 import time
 from datetime import datetime
+import subprocess
+import sys
+
+subprocess.check_call([sys.executable, "-m", "pip", "install", "imbalanced-learn"])
 
 st.set_page_config(
     page_title="Bank Marketing Campaign Prediction",
