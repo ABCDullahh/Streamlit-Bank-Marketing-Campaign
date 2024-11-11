@@ -13,7 +13,7 @@ This project provides an interactive dashboard built with **Streamlit** to predi
 
 1. **Run the Application:**
    ```bash
-   streamlit run app.py
+   streamlit run bank_marketing_deposit_pred_streamlit.py
    ```
 
 2. **Single Prediction:**
