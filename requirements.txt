@@ -3,4 +3,4 @@ pandas==2.2.3
 plotly==5.17.0
 datetime==5.1
 imbalanced-learn==0.12.3
-imbalanced-learn==1.5.2
+scikit-learn==1.5.2
